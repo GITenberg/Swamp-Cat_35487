@@ -1,0 +1,43 @@
+_repo: Swamp-Cat_35487
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Shenton, Edward
+    birthdate: 1895
+    deathdate: 1977
+    gutenberg_agent_id: '37043'
+    url: http://www.gutenberg.org/2009/agents/37043
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kjelgaard, Jim
+    aliases:
+    - Kjelgaard, James Arthur
+    - Elgard, Jim
+    birthdate: 1910
+    deathdate: 1959
+    gutenberg_agent_id: '37042'
+    url: http://www.gutenberg.org/2009/agents/37042
+    wikipedia: http://en.wikipedia.org/wiki/Jim_Kjelgaard
+description: In the Louisiana swamps, a seventeen-year-old boy and a cat try to protect
+  his muskrats from predators, animal and human.
+gutenberg_issued: '2011-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35487'
+  lccn: '57010167'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Muskrat -- Juvenile fiction'
+- !lcsh 'Cats -- Juvenile fiction'
+- !lcsh 'Louisiana -- Juvenile fiction'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Swamps -- Juvenile fiction'
+title: Swamp Cat
+url: http://www.gutenberg.org/ebooks/35487
